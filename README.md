@@ -22,7 +22,7 @@ Follow these steps to get the To-Do App up and running on your local machine:
 1. **Clone the Repository:**
    - Clone this repository to your local machine using the command:
      ```
-     git clone https://github.com/your-username/todo-app-react-native.git
+     git clone https://github.com/cyrus-shakya/To-Do-App.git
      ```
 
 2. **Install Dependencies:**
